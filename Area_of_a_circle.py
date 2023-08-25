@@ -1,3 +1,3 @@
-r = int(input())
-a = 3.14*r*r
+x = int(input())
+a = 3.14*x*x
 print(f"{a:.2f}")
