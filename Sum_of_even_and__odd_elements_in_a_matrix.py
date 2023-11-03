@@ -11,4 +11,4 @@ for i in mat:
             s = s+j
         else:
             f = f+j
-print(s,f,end ="")
+print(s,f,end = "")
